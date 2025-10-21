@@ -1,16 +1,31 @@
-## Hi there 👋
+# Simple HTML Game
 
-<!--
-**knowaught/knowaught** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is a simple web-based game made entirely with HTML. It runs directly in the browser with no need for JavaScript or CSS.
 
-Here are some ideas to get you started:
+## 🔹 How to Play
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. Download or clone the repository.
+2. Open the `index.html` file in any modern web browser.
+3. Enjoy the game!
+
+## 📁 Files
+
+- `index.html` – The main game file
+
+## 💡 Features
+
+- Built using only HTML
+- No external libraries or dependencies
+- Works in all modern browsers
+
+## 📷 Screenshots
+
+*(Add screenshots here if you have them)*
+
+## 📄 License
+
+This project is open source and available under the MIT License.
+
+---
+
+Made by [Your Name]
