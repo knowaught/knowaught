@@ -1,31 +1,19 @@
-# Simple HTML Game
+# Game Website Host
 
-This is a simple web-based game made entirely with HTML. It runs directly in the browser with no need for JavaScript or CSS.
+A simple HTML site that runs games directly in the browser. No downloads needed.
 
-## 🔹 How to Play
+Click [**THIS**](https://knowaught.github.io/knowaught/) to play the game.
 
-1. Download or clone the repository.
-2. Open the `index.html` file in any modern web browser.
-3. Enjoy the game!
+## How to Use
 
-## 📁 Files
+- Open `index.html` in your browser.
+- Choose a game and start playing.
 
-- `index.html` – The main game file
+## Notes
 
-## 💡 Features
-
-- Built using only HTML
-- No external libraries or dependencies
-- Works in all modern browsers
-
-## 📷 Screenshots
-
-*(Add screenshots here if you have them)*
-
-## 📄 License
-
-This project is open source and available under the MIT License.
+- Made with pure HTML.
+- Works in all modern browsers.
 
 ---
 
-Made by [Your Name]
+Created by [Your Name]
